@@ -1,0 +1,35 @@
+{
+  "description": "Hi, 我是 Binaryify",
+  "external_url": "",
+  "image": "https://avatars.githubusercontent.com/u/12221718?v=4",
+  "name": "Binaryify",
+  "attributes": [
+    {
+      "trait_type": "爱好",
+      "value": "赚钱,炒币,写代码"
+    },
+    {
+      "trait_type": "性格",
+      "value": "比较复杂"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "生日",
+      "value": 768960000
+    },
+    {
+      "trait_type": "网易云音乐等级",
+      "value": 10
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "努力值",
+      "value": 75
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "幸运值",
+      "value": 90
+    }
+  ]
+}
