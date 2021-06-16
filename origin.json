@@ -1,0 +1,18 @@
+{
+  "title": "Binaryify",
+  "type": "object",
+  "properties": {
+      "name": {
+          "type": "string",
+          "description": "Binaryify"
+      },
+      "description": {
+          "type": "string",
+          "description": "Describes the asset to which this NFT represents"
+      },
+      "image": {
+          "type": "string",
+          "description": "https://avatars.githubusercontent.com/u/12221718?v=4"
+      }
+  }
+}

@@ -1,18 +1,20 @@
 {
-  "title": "Binaryify",
-  "type": "object",
-  "properties": {
-      "name": {
-          "type": "string",
-          "description": "Binaryify"
-      },
-      "description": {
-          "type": "string",
-          "description": "Describes the asset to which this NFT represents"
-      },
-      "image": {
-          "type": "string",
-          "description": "https://avatars.githubusercontent.com/u/12221718?v=4"
-      }
-  }
+  "attributes": [
+    {
+      "trait_type": "性格",
+      "value": "未知"
+    },
+    {
+      "trait_type": "智商",
+      "value": "普通人"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "生日",
+      "value": 768960000
+    }
+  ],
+  "description":"hi",
+  "image":"https://avatars.githubusercontent.com/u/12221718?v=4",
+  "name":"binaryify"
 }
