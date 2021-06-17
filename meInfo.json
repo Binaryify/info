@@ -5,6 +5,10 @@
   "name": "Binaryify",
   "attributes": [
     {
+      "trait_type": "性别",
+      "value": "男"
+    },
+    {
       "trait_type": "爱好",
       "value": "赚钱,炒币,写代码"
     },
